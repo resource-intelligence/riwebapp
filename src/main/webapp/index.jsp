@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Test</title>
+    <title>Test Openshift</title>
   </head>
 <body>
 <h2>Hello World with OpenShift!</h2>
